@@ -54,4 +54,4 @@ class RequestProducts {
     }
 }
 
-export default RequestProducts();
+export default new RequestProducts();

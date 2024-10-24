@@ -56,4 +56,4 @@ class UserAccess {
         }).as('logoutUser');
     }
 }
-export default UserAccess();
+export default new UserAccess();
